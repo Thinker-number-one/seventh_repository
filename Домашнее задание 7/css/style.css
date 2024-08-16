@@ -1,0 +1,45 @@
+* {
+    background-color: MediumSpringGreen;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+}
+
+h1 {
+    text-align: left;
+    margin-top: 20px;
+    margin-bottom: 12px;
+    margin-left: 30px;
+    font-size: 20px;
+    color: Gray;
+}
+
+#name {
+    margin-left: 30px;
+}
+
+#razmer-0, #razmer-1 {
+    width: 120px;
+    height: 60px;
+
+    text-align: center;
+    margin-left: 30px;
+}
+
+#razmer-2 {
+    margin-left: 30px;
+    font-size: 20px;
+}
+
+.perenos {
+    white-space: pre-line;
+    margin-top: 20px;
+}
+
+button {
+    border: 5px solid Red;
+    background-color: GreenYellow;
+}
+
+.knopka {
+    margin-top: 30px;
+}
